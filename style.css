@@ -8,7 +8,7 @@
 /*inner-header - height controls the height of the waves, ex. x > 70 = waves decrease in size, and vice versa*/
 
 .inner-header {
-  height: 70vh;
+  height: 85vh;
   width: 100%;
 }
 
